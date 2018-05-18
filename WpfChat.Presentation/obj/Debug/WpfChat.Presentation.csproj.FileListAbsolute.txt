@@ -1,0 +1,17 @@
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\bin\Debug\WpfChat.Presentation.exe.config
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\bin\Debug\WpfChat.Presentation.exe
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\bin\Debug\WpfChat.Presentation.pdb
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation.csprojAssemblyReference.cache
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\Pages\Login.g.cs
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\App.g.cs
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation_MarkupCompile.cache
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation_MarkupCompile.lref
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\MainWindow.baml
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\Pages\Login.baml
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation.g.resources
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation.Properties.Resources.resources
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation.csproj.GenerateResource.cache
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation.exe
+C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\WpfChat.Presentation.pdb

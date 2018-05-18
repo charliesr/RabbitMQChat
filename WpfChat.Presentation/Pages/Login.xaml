@@ -1,0 +1,29 @@
+﻿<Page x:Class="WpfChat.Presentation.Pages.Login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfChat.Presentation.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Login">
+
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="233" Margin="162,109,0,0" VerticalAlignment="Top" Width="541">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+            <Button Content="Login" HorizontalAlignment="Left" Margin="117,8,0,0" Grid.Row="2" VerticalAlignment="Top" Width="275" Height="62" Click="Button_Click" />
+            <Label Content="Label" HorizontalAlignment="Left" Margin="18,10,0,0" Width="129" Height="48" VerticalAlignment="Top" FontSize="24" RenderTransformOrigin="0.989,0.352"/>
+            <Label Content="Password" HorizontalAlignment="Left" Margin="18,22.6,0,0" Width="129" Height="48" VerticalAlignment="Top" Grid.Row="1" FontSize="24" Grid.Column="1"/>
+            <TextBox HorizontalAlignment="Left" Height="31" Margin="152,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox HorizontalAlignment="Left" Height="31" Margin="152,23,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="120" Grid.Row="1"/>
+        </Grid>
+
+    </Grid>
+</Page>
