@@ -9,20 +9,22 @@
       Title="Login">
 
     <Grid>
-        <Grid HorizontalAlignment="Left" Height="233" Margin="162,109,0,0" VerticalAlignment="Top" Width="541">
+        <Grid HorizontalAlignment="Left" Height="300" Margin="100,85" VerticalAlignment="Top" Width="600">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
-                <RowDefinition Height="80"/>
-                <RowDefinition Height="80"/>
-                <RowDefinition Height="80"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
             </Grid.RowDefinitions>
-            <Button Content="Login" HorizontalAlignment="Left" Margin="117,8,0,0" Grid.Row="2" VerticalAlignment="Top" Width="275" Height="62" Click="Button_Click" />
-            <Label Content="Label" HorizontalAlignment="Left" Margin="18,10,0,0" Width="129" Height="48" VerticalAlignment="Top" FontSize="24" RenderTransformOrigin="0.989,0.352"/>
-            <Label Content="Password" HorizontalAlignment="Left" Margin="18,22.6,0,0" Width="129" Height="48" VerticalAlignment="Top" Grid.Row="1" FontSize="24" Grid.Column="1"/>
-            <TextBox HorizontalAlignment="Left" Height="31" Margin="152,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-            <TextBox HorizontalAlignment="Left" Height="31" Margin="152,23,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="120" Grid.Row="1"/>
+            <Label Content="Name" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Center" FontSize="17" Grid.Row="0" />
+            <TextBox x:Name="loginTextBox" HorizontalAlignment="Left" Height="50" Margin="100,10,50,10" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" Grid.Row="0"/>
+            <Label Content="Password" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Center" Grid.Row="1" FontSize="17"/>
+            <PasswordBox x:Name="passwordTextBox" Height="50" Margin="100,10,50,10"  Width="450" Grid.Row="1" PasswordChar="*"/>
+            <Button Content="Login" HorizontalAlignment="Center"  Grid.Row="2" VerticalAlignment="Center" Width="275" Height="55" Click="Button_Click" />
+            <Label x:Name="labelResult" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="3" FontSize="17" Margin="0,31,295,30"/>
         </Grid>
 
     </Grid>

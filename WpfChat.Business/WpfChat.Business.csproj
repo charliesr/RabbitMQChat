@@ -4,4 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WpfChat.Common\WpfChat.Common.csproj" />
+    <ProjectReference Include="..\WpfChat.Infrastructure\WpfChat.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

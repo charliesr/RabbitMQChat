@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\obj\Debug\
+C:\Users\charl\source\repos\WcfChat\WpfChat.Presentation\obj\Debug\
 WpfChat.Presentation
 none
 false
 DEBUG;TRACE
-C:\Users\carles.sanchez\source\repos\WpfChat\WpfChat.Presentation\App.xaml
+C:\Users\charl\source\repos\WcfChat\WpfChat.Presentation\App.xaml
 2-1092618758
 
-10-819657059
-131569487696
+10-290921493
+1261177239761
 MainWindow.xaml;Pages\Login.xaml;
 
-False
+True
 

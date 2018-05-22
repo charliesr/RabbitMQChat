@@ -1,0 +1,2 @@
+C:\Users\charl\source\repos\WcfChat\WpfChat.Infrastucture\obj\Debug\WpfChat.Infrastucture.csprojResolveAssemblyReference.cache
+C:\Users\charl\source\repos\WcfChat\WpfChat.Infrastucture\obj\Debug\WpfChat.Infrastucture.csproj.CoreCompileInputs.cache

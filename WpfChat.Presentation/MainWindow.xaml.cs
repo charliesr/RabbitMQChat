@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Autofac;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfChat.Autofac.Configuration;
 
 namespace WpfChat.Presentation
 {
@@ -20,9 +22,11 @@ namespace WpfChat.Presentation
     /// </summary>
     public partial class MainWindow : NavigationWindow
     {
+
         public MainWindow()
         {
             InitializeComponent();
+            AutofacInjector.Builder();
         }
     }
 }
